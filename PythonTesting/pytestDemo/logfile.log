@@ -1,0 +1,8 @@
+2023-06-02 15:51:59,847 :INFO : test_editProfile :Akshay
+2023-06-02 15:51:59,847 :INFO : test_editProfile :AkshayGaikwad.com
+2023-06-02 15:53:03,352 :INFO : PythonTesting.pytestDemo.test_Logging :Information statement
+2023-06-02 15:53:03,352 :WARNING : PythonTesting.pytestDemo.test_Logging :Something is in warning mode
+2023-06-02 15:53:03,352 :ERROR : PythonTesting.pytestDemo.test_Logging :A Major error has happend
+2023-06-02 15:53:03,352 :CRITICAL : PythonTesting.pytestDemo.test_Logging :Critical issue
+2023-06-02 15:53:03,580 :INFO : test_editProfile :Akshay
+2023-06-02 15:53:03,580 :INFO : test_editProfile :AkshayGaikwad.com
